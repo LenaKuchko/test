@@ -1,0 +1,8 @@
+/Users/iliak/LenaProjects/C#/Animals/bin/Debug/netcoreapp1.0/Animals.deps.json
+/Users/iliak/LenaProjects/C#/Animals/bin/Debug/netcoreapp1.0/Animals.runtimeconfig.json
+/Users/iliak/LenaProjects/C#/Animals/bin/Debug/netcoreapp1.0/Animals.runtimeconfig.dev.json
+/Users/iliak/LenaProjects/C#/Animals/obj/Debug/netcoreapp1.0/Animals.AssemblyInfo.cs
+/Users/iliak/LenaProjects/C#/Animals/bin/Debug/netcoreapp1.0/Animals.dll
+/Users/iliak/LenaProjects/C#/Animals/bin/Debug/netcoreapp1.0/Animals.pdb
+/Users/iliak/LenaProjects/C#/Animals/obj/Debug/netcoreapp1.0/Animals.dll
+/Users/iliak/LenaProjects/C#/Animals/obj/Debug/netcoreapp1.0/Animals.pdb
